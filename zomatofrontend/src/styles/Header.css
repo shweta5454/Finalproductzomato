@@ -1,0 +1,107 @@
+bor{
+    border: 2px solid black;
+}
+body {
+    margin: 0px;
+    font-family: Poppins;
+    box-sizing: border-box;
+    
+}
+
+.header {
+    background-color: #ce0505;
+    height: 80px;
+}
+
+header span {
+    display: inline-block;
+    padding: 1px 15px;
+    padding-bottom: 5px;
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-right:50%;
+    background-color: #ffffff;
+    text-align: center;
+    font-size: 33px;
+    font-weight: 600;
+    color: #eb2929;
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+
+.headbtn {
+    float: right;
+    margin-top: 24px;
+    margin-right: 134px;
+    padding: auto 15px;
+    padding-bottom: 5px;
+
+}
+header .lbtn{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    background: transparent;
+    border:none;
+    margin-right: 20px;
+    color: #fff;
+}
+
+.cbtn{
+    font-family: Poppins;
+    color: #fff;
+    font-size: 18px;
+    background: transparent;
+    border:none;
+    border:1px solid #ffffff;
+    padding: 10px 40px;
+    border-radius: 8px;
+    margin-top: -7px;
+
+}
+
+/* Google button style */
+.Rectangle-3341 {
+    width: 398px;
+    height: 50px;
+    margin: 22px 0.2px 92.6px 0;
+    padding: 1px 69px 11.8px 70px;
+    border-radius: 6px;
+    border: solid 1px #c7c7c7;
+    background-color: #fff;
+  }
+  .Continue-with-Gmail {
+    width: 184px;
+    height: 25px;
+    margin: 0 0 0 11.6px;
+    opacity: 0.8;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+
+  /* //Facebook button style */
+
+  .Continue-with-Facebook {
+    width: 219px;
+    height: 25px;
+    margin: 2px 0 1.2px 11.8px;
+    opacity: 0.8;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  
